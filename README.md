@@ -269,5 +269,5 @@ Senior Business Intelligence Analyst | Splunk Expert | Data Analytics Consultant
 
 ---
 
-*Portfolio Created: June 2024 | Technologies: Splunk Enterprise, SPL, Business Intelligence, AWS Cloud*  
+*Portfolio Created: June 2025 | Technologies: Splunk Enterprise, SPL, Business Intelligence, AWS Cloud*  
 *Skill Level: Advanced Analytics Professional | Enterprise Consulting Ready*
