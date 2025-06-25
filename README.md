@@ -128,11 +128,11 @@ index=globaltech_retail | stats sum(total_amount) as Revenue by store_name
 ## 🎯 Enterprise Applications
 
 ### **Fortune 500 Ready For:**
-- 🏢 **Business Intelligence Analyst** ($75K-$120K)
-- 📊 **Senior Data Analyst** ($85K-$130K)
-- 🔧 **Splunk Administrator** ($90K-$140K)
-- 💼 **Analytics Consultant** ($100K-$160K)
-- 🚀 **BI Developer** ($95K-$145K)
+- 🏢 **Business Intelligence Analyst** 
+- 📊 **Senior Data Analyst**
+- 🔧 **Splunk Administrator** 
+- 💼 **Analytics Consultant** 
+- 🚀 **BI Developer** 
 
 ### **Industry Applications:**
 - 🛒 **Retail & E-commerce:** Multi-store performance analytics
